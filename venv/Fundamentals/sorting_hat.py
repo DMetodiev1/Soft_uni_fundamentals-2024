@@ -18,3 +18,4 @@ while True:
     names = input()
 
 # how to commit in pyCharm
+prit("how to do that?!?!")
